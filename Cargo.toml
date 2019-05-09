@@ -3,6 +3,16 @@ name = "visualhash"
 version = "0.1.0"
 authors = ["Dalek-Sec <Dalek-Sec@users.noreply.github.com>"]
 edition = "2018"
+description = "Simple crate for creating a visual fingerprint of data"
+homepage = "https://github.com/Dalek-Sec/rust-visualhash"
+repository = "https://github.com/Dalek-Sec/rust-visualhash.git"
+readme = "README.md"
+keywords = ["hash", "fingerprint", "image", "thumbnail"]
+categories = ["authentication", "multimedia::images", "visualization"]
+license = "MIT"
+
+[badges]
+maintenance = { status = "passively-maintained" }
 
 [dependencies]
 rust-argon2 = "0.4.0"

@@ -1,6 +1,6 @@
 [package]
 name = "visualhash"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Dalek-Sec <Dalek-Sec@users.noreply.github.com>"]
 edition = "2018"
 description = "Simple crate for creating a visual fingerprint of data"

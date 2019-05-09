@@ -8,3 +8,5 @@ edition = "2018"
 rust-argon2 = "0.4.0"
 image = "0.21.1"
 
+[[bin]]
+name = "vish"
